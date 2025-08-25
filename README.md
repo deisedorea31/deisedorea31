@@ -3,7 +3,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **programação, automação e inteligência artificial**.  
 Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 
-![Banner animado](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Banner animado](assets/banner.gif)
 
 ---
 
@@ -49,4 +49,3 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 ✨ Obrigada por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso.
 
-![Emoji animado](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
