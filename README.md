@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Deiseane!
+# 👋 Olá, eu sou Deiseane!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **programação, automação e inteligência artificial**.  
 Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
