@@ -23,8 +23,8 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 
 | Projeto | Linguagem | Status |
 |---------|-----------|--------|
-| Mini-jogos | C 📘 | ✅ Em andamento |
-| Scripts de automação | Python 🐍 | ⏳ Futuro |
+| Mini-jogos | C 📘 | ✅ Finalizado|
+| Estudo e Desenvolvimento | Python 🐍 | ✅ Em andamento |
 | Consultas & mini-projetos | SQL 🗄️ | ⏳ Futuro |
 
 💡 Cada projeto está sendo atualizado e adicionado no meu GitHub.
