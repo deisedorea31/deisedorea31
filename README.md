@@ -23,7 +23,7 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 
 | Projeto | Linguagem | Status |
 |---------|-----------|--------|
-| Mini-jogos | C 📘 | ✅ Finalizado|
+| Mini-jogos | C 📘 | ✔️ Finalizado|
 | Estudo e Desenvolvimento | Python 🐍 | ✅ Em andamento |
 | Consultas & mini-projetos | SQL 🗄️ | ⏳ Futuro |
 
