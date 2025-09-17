@@ -14,8 +14,8 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Automação](https://img.shields.io/badge/Automação-00BFFF?style=for-the-badge)]()
-[![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-FF69B4?style=for-the-badge)]()
+[![Automação](https://img.shields.io/badge/Automação-00BFFF?style=for-the-badge&logo=ansible&logoColor=white)]()
+[![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)]()
 
 ---
 
@@ -23,9 +23,9 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 
 | Projeto | Linguagem | Status |
 |---------|-----------|--------|
-| Mini-jogos | C 📘 | ✔️ Finalizado|
-| Estudo e Desenvolvimento | Python 🐍 | ✅ Em andamento |
-| Consultas & mini-projetos | SQL 🗄️ | ⏳ Futuro |
+| [Mini-jogos](https://github.com/deisedorea31) | C 📘 | ✔️ Finalizado |
+| [Estudo e Desenvolvimento](https://github.com/deisedorea31) | Python 🐍 | ✅ Em andamento |
+| [Consultas & mini-projetos](https://github.com/deisedorea31) | SQL 🗄️ | ⏳ Futuro |
 
 💡 Cada projeto está sendo atualizado e adicionado no meu GitHub.
 
@@ -44,8 +44,11 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisedorea31&layout=compact&theme=radical&cache_seconds=0)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deisedorea31&theme=radical)
 
-
 ---
+
+✨ Obrigada por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso.
+
 
 ✨ Obrigada por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso.
