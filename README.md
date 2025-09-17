@@ -46,7 +46,6 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 # Estatísticas do GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deisedorea31&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisedorea31&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=deisedorea31&theme=radical)
 
 
