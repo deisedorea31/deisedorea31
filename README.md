@@ -23,11 +23,32 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 
 | Projeto | Linguagem | Status |
 |---------|-----------|--------|
-| [Mini-jogos](https://github.com/deisedorea31) | C 📘 | ✔️ Finalizado |
-| [Estudo e Desenvolvimento](https://github.com/deisedorea31) | Python 🐍 | ✅ Em andamento |
+| [Mini-jogos](https://github.com/deisedorea31/deisedorea3101) | C 📘 | ✅ Finalizado |
+| [Estudo e Desenvolvimento](https://github.com/deisedorea31) | Python 🐍 | 🔄 Em andamento |
 | [Consultas & mini-projetos](https://github.com/deisedorea31) | SQL 🗄️ | ⏳ Futuro |
 
 💡 Cada projeto está sendo atualizado e adicionado no meu GitHub.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+### 📌 Badges rápidas
+![Repositórios](https://img.shields.io/github/repos/deisedorea31?style=for-the-badge&color=blue)
+![Seguidores](https://img.shields.io/github/followers/deisedorea31?style=for-the-badge&color=green)
+![Última atualização](https://img.shields.io/github/last-commit/deisedorea31/deisedorea3101?style=for-the-badge&color=orange)
+
+### 📌 Cards de perfil
+![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deisedorea31&theme=radical)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deisedorea31&theme=radical)
+
+### 📌 Barras de progresso por linguagem
+![Python](https://progress-bar.dev/100/?title=Python&color=3776AB)
+![C](https://progress-bar.dev/80/?title=C&color=00599C)
+![SQL](https://progress-bar.dev/70/?title=SQL&color=4479A1)
+![Git](https://progress-bar.dev/90/?title=Git&color=F05032)
+
+> 💡 Você pode ajustar as porcentagens de acordo com seu nível de proficiência.
 
 ---
 
@@ -37,18 +58,6 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 ✉️ Email: deise.dorea31@gmail.com  
 
 ---
-
-## 📈 Meu progresso no GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deisedorea31&show_icons=true&theme=radical&cache_seconds=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisedorea31&layout=compact&theme=radical&cache_seconds=0)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deisedorea31&theme=radical)
-
----
-
-✨ Obrigada por visitar meu perfil!  
-Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso.
-
 
 ✨ Obrigada por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso.
