@@ -40,9 +40,10 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 
 ## 📈 Meu progresso no GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deisedorea31&show_icons=true&theme=radical&token=PAT_1)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisedorea31&layout=compact&theme=radical&token=PAT_1)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deisedorea31&show_icons=true&theme=radical&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisedorea31&layout=compact&theme=radical&cache_seconds=0)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deisedorea31&theme=radical)
+
 
 ---
 
