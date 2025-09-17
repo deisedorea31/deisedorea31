@@ -34,9 +34,9 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 ## 📊 Estatísticas do GitHub
 
 ### 📌 Badges rápidas
-![Repositórios](https://img.shields.io/github/repos/deisedorea31?style=for-the-badge&color=blue)
-![Seguidores](https://img.shields.io/github/followers/deisedorea31?style=for-the-badge&color=green)
-![Última atualização](https://img.shields.io/github/last-commit/deisedorea31/deisedorea3101?style=for-the-badge&color=orange)
+![Repositórios](https://img.shields.io/badge/Repos-4-blue?style=for-the-badge)
+![Seguidores](https://img.shields.io/badge/Followers-0-green?style=for-the-badge)
+![Última atualização](https://img.shields.io/badge/Last_Commit-NA-orange?style=for-the-badge)
 
 ### 📌 Cards de perfil
 ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deisedorea31&theme=radical)
