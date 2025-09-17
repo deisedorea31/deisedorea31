@@ -43,10 +43,11 @@ Aqui compartilho meus estudos, projetos e progresso em diferentes linguagens.
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deisedorea31&theme=radical)
 
 ### 📌 Barras de progresso por linguagem
-![Python](https://progress-bar.dev/100/?title=Python&color=3776AB)
-![C](https://progress-bar.dev/80/?title=C&color=00599C)
-![SQL](https://progress-bar.dev/70/?title=SQL&color=4479A1)
-![Git](https://progress-bar.dev/90/?title=Git&color=F05032)
+![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-80%25-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-70%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 > 💡 Você pode ajustar as porcentagens de acordo com seu nível de proficiência.
 
